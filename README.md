@@ -1,74 +1,104 @@
 <!-- PROJECT LOGO -->
 <a name="readme-top"></a>
- <br />
+<br />
 <div align="center">
-    <img src="[https://sapu.eco.br/images/Logo_SAPU-white.webp](https://sapu.eco.br/images/Logotipo_SAPU_Dark.webp)" alt="Logo" width="80" height="80">
-  </a> 
-<br /><br />
+  <a href="https://sapu.eco.br">
+    <img src="https://sapu.eco.br/images/Logotipo_SAPU_Dark.webp" alt="Logo" width="120" height="120">
+  </a>
   <h1 align="center">Sistema Analítico de Progressão Universitária</h1>
-<br />
   <p align="center">
-"O Sistema Analítico de Progressão Universitária é uma ferramenta desenvolvida para facilitar a gestão da matriz curricular, para os estudantes universitários. Através desse sistema, os estudantes podem visualizar com clareza as disciplinas que precisam cursar, os pré-requisitos necessários para cada uma delas, bem como o progresso que já realizaram em relação à conclusão do curso. Isso permite que os estudantes tenham uma visão mais abrangente de sua formação acadêmica, bem como uma maior autonomia na gestão de seu próprio percurso universitário. Além disso, o Sistema Analítico de Progressão Universitária também pode ser utilizado pelas instituições de ensino para monitorar o progresso dos alunos, garantindo a qualidade e eficiência do processo de ensino-aprendizagem."
+    <i>Facilitando a gestão acadêmica para estudantes e instituições de ensino</i>
+  </p>
+  <p align="center">
+    <a href="https://sapu.eco.br/relatorio"><strong>Veja a Documentação »</strong></a>
     <br />
-  <h2 align="center">Em Desenvolvimento</h2>
-<br />
- <br />
-    <a href="https://sapu.eco.br/relatorio"><strong>Veja a Documentação»</strong></a>
-    <br />
-    <br />
+    <a href="#roadmap">Roadmap</a>
+    ·
+    <a href="#equipe-de-desenvolvimento">Equipe</a>
+    ·
+    <a href="#license">Licença</a>
   </p>
 </div>
 
-Desenvolvido com
-<br />
+---
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+## Sobre o Projeto
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+O **Sistema Analítico de Progressão Universitária (SAPU)** é uma ferramenta projetada para otimizar a gestão acadêmica de estudantes universitários. A plataforma permite:
 
-<!-- ROADMAP & BACKLOG -->
+- **Visualização clara do progresso acadêmico:** Confira as disciplinas cursadas e aquelas que ainda estão pendentes.
+- **Gestão eficiente da matriz curricular:** Identifique pré-requisitos e organize seu planejamento acadêmico de maneira independente.
+- **Apoio institucional:** Ofereça uma visão ampla e detalhada do progresso estudantil para instituições de ensino.
+
+🔗 **Acesse a plataforma:** [SAPU](https://sapu.eco.br)
+
+---
+
+## Desenvolvido Com
+
+<div align="center">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+</div>
+
+---
+
 ## Roadmap & Backlog
-<!-- ESCREVER AQUI -->  <!-- ESCREVER AQUI -->  <!-- ESCREVER AQUI -->  <!-- ESCREVER AQUI -->  <!-- ESCREVER AQUI -->  <!-- ESCREVER AQUI -->  <!-- ESCREVER AQUI --> 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ESCREVER AQUI -->  <!-- ESCREVER AQUI -->  <!-- ESCREVER AQUI -->  <!-- ESCREVER AQUI -->  <!-- ESCREVER AQUI -->  <!-- ESCREVER AQUI -->  <!-- ESCREVER AQUI --> 
-                                       
+### Planejamento Futuro
+- **Versão 1.0**
+    - [ ] Dashboard para acompanhamento em tempo real.
+    - [ ] Otimizações de UX/UI.
+ 
+
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
+---
+
 ## Equipe de Desenvolvimento
 
-[<img src="https://github.com/faelsriegel.png?size=115" width=115><br><sub>@faelsriegel</sub>](https://github.com/faelsriegel)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/faelsriegel">
+          <img src="https://github.com/faelsriegel.png?size=115" width="115" alt="@faelsriegel"/><br>
+          <b>@faelsriegel</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/marcos-mantovani">
+          <img src="https://github.com/marcos-mantovani.png?size=115" width="115" alt="@marcos-mantovani"/><br>
+          <b>@marcos-mantovani</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/luizcosta123">
+          <img src="https://github.com/luizcosta123.png?size=115" width="115" alt="@luizcosta123"/><br>
+          <b>@luizcosta123</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-[<img src="https://github.com/marcos-mantovani.png?size=250" width=115><br><sub>@marcos-mantovani</sub>](https://github.com/marcos-mantovani) 
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
-[<img src="https://github.com/luizcosta123.png?size=250" width=115><br><sub>@luizcosta123</sub>](https://github.com/luizcosta123)
+---
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!-- ## Sobre o Projeto
+## Página Hospedada
 
-| Perguntas                                                                                                         | Respostas             |
-| --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
- Porque utilizar o SAPU?                                                      | Universitária (SAPU) consiste em ser um sistema de cadastro da matriz curricular, com o intuito de ser um meio acessível de gestão e controle das grades das instituições de ensino, para o estudante.   | 
- Veja seu progresso, do seu jeito.                                                      | Enfrente a grade, com a opção de exportar as disciplinas que se adaptam às suas necessidades.  |
- Simplifique o controle e faça mais.                                                      | Planeje, acompanhe e gerencie a sua matriz curricular, otimizando o processo.  |
- Defina metas e as cumpra, mais rapidamente.                                                     | Mantenha-se no caminho certo para atingir seus objetivos com metas para conclusão da disciplina.  |                                                                                            
+| Badge | URL |
+|-------|-----|
+| <a href="https://sapu.eco.br"><img width="150" src="https://sapu.eco.br/images/Logotipo_SAPU_Dark.webp" alt="SAPU"></a> | [https://sapu.eco.br](https://sapu.eco.br) |
 
- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
- 
-## Pagina Hospedada [🔝](📈)
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
-| Badge                                                                                                       | URL                                                                            |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <img width='200' src="https://sapu.eco.br/" /> | `https://sapu.eco.br` |
+---
 
+## Licença
 
-<!-- LICENSE -->
-## License
+Distribuído sob a licença MIT. Veja `LICENSE.txt` para mais detalhes.
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-                                       
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
