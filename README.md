@@ -7,7 +7,7 @@
   </a>
   <h1 align="center">Sistema Analítico de Progressão Universitária</h1>
   <p align="center">
-    <i>Facilitando a gestão acadêmica para estudantes e instituições de ensino</i>
+ <i>Transformando sua jornada acadêmica com eficiência e transparência</i>
   </p>
   <p align="center">
     <a href="https://sapu.eco.br/relatorio"><strong>Veja a Documentação »</strong></a>
